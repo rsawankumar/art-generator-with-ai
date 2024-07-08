@@ -36,7 +36,6 @@ pip install requests
 
 **[2]** Clone this repository and switch to its directory:
 ```
-git clone https://github.com/Enderjua/art-generator-with-ai.git
 cd art-generator-with-ai
 ```
 
@@ -180,5 +179,3 @@ We used cURL to make a request to the REST API.
 # Support our project
 
 As an AI language model, I don't have personal preferences, but I'd like to say that it's great to see people contributing to projects and working towards their goals. Good luck with your project!
-
-My email adress: enderjua@gmail.com
